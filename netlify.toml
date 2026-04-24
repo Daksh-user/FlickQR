@@ -1,5 +1,4 @@
 [build]
-  base = "flickqr-improved/flickqr-improved"
   command = "npm run build"
   publish = ".next"
 
